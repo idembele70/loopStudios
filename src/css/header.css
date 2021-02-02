@@ -1,0 +1,14 @@
+header {
+background: url('../assets/images/desktop/image-hero.jpg') no-repeat center;
+height: 650px;
+margin: 0 auto;
+}
+
+.menu-principale {
+display: flex;
+}
+.logo {
+background: url('../assets/images/logo.svg');
+
+}
+
